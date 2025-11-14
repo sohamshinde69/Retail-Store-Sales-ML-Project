@@ -4,3 +4,6 @@ This project focuses on cleaning, preprocessing, and modeling a real-world retai
 <br>
 <br>
 Rather than filling missing values using simple methods like mean/median/mode, this project uses machine learning to predict missing discounts based on item categories, prices, quantities, and more.
+<br>
+<br>
+<H1> Attribute Information </H1>
