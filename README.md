@@ -82,5 +82,4 @@ Support Vector Machine(SVC) : Accuracy of SVM is : 49.20
 <br>
 <h3>Which Model Performed Best ? </h3>
 <br>
-<br>
 RandomForestClassifier : Accuracy of RandomforestClassifier is : 50.88
