@@ -56,3 +56,29 @@ Selected the best-performing model and used it to predict the missing discount_a
 | **Discount Applied** | **8,376**      | object | Discount category applied (target with missing values) |
 <br>
 <br>
+<h1>Libraries</h1>
+<br>
+Pandas
+<br>
+Numpy
+<br>
+Seaborn
+<br>
+Matplotlib
+<br>
+Sci-kit Learn
+<br>
+<br>
+<h1>Algorithm</h1>
+<br>
+DecisionTreeClassifier : Accuracy of DecisionTreeClassifier is : 48.54
+<br>
+RandomForestClassifier : Accuracy of RandomforestClassifier is : 50.88
+<br>
+KNeighborsClassifier : Accuracy of KNeighborsClassifier is : 50.70
+<br>
+Support Vector Machine(SVC) : Accuracy of SVM is : 49.20
+<br>
+Which Model Performed Best ? 
+<br>
+RandomForestClassifier : Accuracy of RandomforestClassifier is : 50.88
