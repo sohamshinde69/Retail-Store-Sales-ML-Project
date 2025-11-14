@@ -6,7 +6,9 @@ This dataset originally contained 12,575 rows, with over 4,000 missing values in
 <h1>Goal</h1>
 <br>
 - Split the data into two groups:
-  - Rows **with known** `discount_applied` values  
+<br>
+  - Rows **with known** `discount_applied` values 
+  <br>
   - Rows **with missing** values
 
 <br>
