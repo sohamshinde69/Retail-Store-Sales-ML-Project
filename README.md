@@ -1,9 +1,19 @@
 # Retail-Store-Sales-ML-Project
 
-This project focuses on cleaning, preprocessing, and modeling a real-world retail dataset containing 12,575 transactions. A significant portion of the data (~4,000 rows) had missing values in the Discount Applied column.
+This dataset originally contained 12,575 rows, with over 4,000 missing values in the discount_applied column. Instead of using simple statistical imputation methods (mean/median/mode), I applied a probability-based approach using patterns from other relevant features.
 <br>
 <br>
-Rather than filling missing values using simple methods like mean/median/mode, this project uses machine learning to predict missing discounts based on item categories, prices, quantities, and more.
+<h1>Goal</h1>
+<br>
+Split the data into two groups:
+<br>
+Rows with known discount_applied values
+<br>
+Rows with missing values
+<br>
+Trained and evaluated four different machine learning models on the complete portion of the dataset
+
+Selected the best-performing model and used it to predict the missing discount_applied values
 <br>
 <br>
 <H1> Attribute Information </H1>
@@ -43,6 +53,3 @@ Rather than filling missing values using simple methods like mean/median/mode, t
 | **Discount Applied** | **8,376**      | object | Discount category applied (target with missing values) |
 <br>
 <br>
-<H1>Goal</H1>
-<br>
-Instead of using mean ,median mode or probabilistic imputation i have used multiple ML models and selected the one with the best accuracy 
