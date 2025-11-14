@@ -7,13 +7,15 @@ This dataset originally contained 12,575 rows, with over 4,000 missing values in
 <br>
  Split the data into two groups:
 <br>
+<br>
  Rows with known "discount_applied" values 
-  <br>
+ <br>
+ <br>
 Rows with missing values
-
+<br>
 <br>
 Trained and evaluated four different machine learning models on the complete portion of the dataset
-
+<br>
 Selected the best-performing model and used it to predict the missing discount_applied values
 <br>
 <br>
