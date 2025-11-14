@@ -79,6 +79,8 @@ KNeighborsClassifier : Accuracy of KNeighborsClassifier is : 50.70
 <br>
 Support Vector Machine(SVC) : Accuracy of SVM is : 49.20
 <br>
-Which Model Performed Best ? 
+<br>
+<h1>Which Model Performed Best ? </h1>
+<br>
 <br>
 RandomForestClassifier : Accuracy of RandomforestClassifier is : 50.88
