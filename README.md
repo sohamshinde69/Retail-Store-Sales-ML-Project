@@ -41,3 +41,8 @@ Rather than filling missing values using simple methods like mean/median/mode, t
 | Transaction Date     | 12,575         | object | Date of purchase                                       |
 <br>
 | **Discount Applied** | **8,376**      | object | Discount category applied (target with missing values) |
+<br>
+<br>
+<H1>Goal</H1>
+<br>
+< Predict the missing Discount Applied values using supervised classification on the rows where the discount is known.>
