@@ -19,6 +19,10 @@ Trained and evaluated four different machine learning models on the complete por
 Selected the best-performing model and used it to predict the missing discount_applied values
 <br>
 <br>
+<H3> Why this approach </H3>
+<br>
+If I used mean, median, or mode to fill the missing values , the dataset would have become imbalanced and the model biased . Instead , I used probabilistic imputation for feature columns and machine learning–based imputation for the target column to preserve the original data distribution and improve prediction reliability.
+ <br>
 <H1> Attribute Information </H1>
 <br>
 | Column Name          | Non-Null Count | Type   | Description                                            |
