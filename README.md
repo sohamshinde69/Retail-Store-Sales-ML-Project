@@ -45,4 +45,4 @@ Rather than filling missing values using simple methods like mean/median/mode, t
 <br>
 <H1>Goal</H1>
 <br>
-< Predict the missing Discount Applied values using supervised classification on the rows where the discount is known.>
+Instead of using mean ,median mode or probabilistic imputation i have used multiple ML models and selected the one with the best accuracy 
