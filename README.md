@@ -1,4 +1,4 @@
-# Retail-Store-Sales-ML-Project
+# Retail Store Sales-Classification
 
 This dataset originally contained 12,575 rows and 11 columns , with over 4,000 missing values in the discount_applied column. Instead of using simple statistical imputation methods (mean/median/mode), I applied a probability-based approach using patterns from other relevant features.
 <br>
